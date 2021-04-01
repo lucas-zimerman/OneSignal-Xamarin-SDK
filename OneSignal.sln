@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2015
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.OneSignal.iOS", "Com.OneSignal.iOS\Com.OneSignal.iOS.csproj", "{5FF66A21-BA7B-48FD-8A7D-6A1092066306}"
 EndProject
@@ -114,6 +114,7 @@ Global
 		{967EAABD-4A79-4762-9848-0D5530AA1FA5}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{20DF0789-7E6E-4A87-AE94-79FDC166B4AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{20DF0789-7E6E-4A87-AE94-79FDC166B4AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DF0789-7E6E-4A87-AE94-79FDC166B4AE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{20DF0789-7E6E-4A87-AE94-79FDC166B4AE}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{20DF0789-7E6E-4A87-AE94-79FDC166B4AE}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{20DF0789-7E6E-4A87-AE94-79FDC166B4AE}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
